@@ -1,0 +1,281 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "board for hall sensors (platter)"
+Date "2020-04-12"
+Rev "1"
+Comp "DB375237"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L dw_symbols:SS49X U1
+U 1 1 5E945677
+P 5750 2800
+F 0 "U1" H 5750 3075 50  0000 C CNN
+F 1 "SS49X" H 5750 3003 25  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-92Flat" H 5750 2600 50  0001 C CNN
+F 3 "" H 5750 2800 50  0001 C CNN
+	1    5750 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5E947126
+P 6100 2850
+F 0 "#PWR03" H 6100 2600 50  0001 C CNN
+F 1 "GND" H 6105 2677 50  0000 C CNN
+F 2 "" H 6100 2850 50  0001 C CNN
+F 3 "" H 6100 2850 50  0001 C CNN
+	1    6100 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 5E947701
+P 3950 3000
+F 0 "#PWR04" H 3950 2750 50  0001 C CNN
+F 1 "GND" H 3955 2827 50  0000 C CNN
+F 2 "" H 3950 3000 50  0001 C CNN
+F 3 "" H 3950 3000 50  0001 C CNN
+	1    3950 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L dw_symbols:SS49X U2
+U 1 1 5E947AD0
+P 5750 3550
+F 0 "U2" H 5750 3825 50  0000 C CNN
+F 1 "SS49X" H 5750 3753 25  0000 C CNN
+F 2 "Package_TO_SOT_THT:TO-92Flat" H 5750 3350 50  0001 C CNN
+F 3 "" H 5750 3550 50  0001 C CNN
+	1    5750 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR06
+U 1 1 5E947E86
+P 6100 3600
+F 0 "#PWR06" H 6100 3350 50  0001 C CNN
+F 1 "GND" H 6105 3427 50  0000 C CNN
+F 2 "" H 6100 3600 50  0001 C CNN
+F 3 "" H 6100 3600 50  0001 C CNN
+	1    6100 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 2800 6100 2850
+Wire Wire Line
+	6100 3550 6100 3600
+$Comp
+L power:+5V #PWR02
+U 1 1 5E9482D9
+P 5350 2750
+F 0 "#PWR02" H 5350 2600 50  0001 C CNN
+F 1 "+5V" H 5365 2923 50  0000 C CNN
+F 2 "" H 5350 2750 50  0001 C CNN
+F 3 "" H 5350 2750 50  0001 C CNN
+	1    5350 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR05
+U 1 1 5E948A3D
+P 5350 3500
+F 0 "#PWR05" H 5350 3350 50  0001 C CNN
+F 1 "+5V" H 5365 3673 50  0000 C CNN
+F 2 "" H 5350 3500 50  0001 C CNN
+F 3 "" H 5350 3500 50  0001 C CNN
+	1    5350 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2750 5350 2800
+Wire Wire Line
+	5350 2800 5400 2800
+Wire Wire Line
+	5350 3500 5350 3550
+Wire Wire Line
+	5350 3550 5400 3550
+$Comp
+L Connector:Conn_01x04_Male J1
+U 1 1 5E94917B
+P 3650 2700
+F 0 "J1" H 3758 2981 50  0000 C CNN
+F 1 "Conn_01x04_Male" V 3600 2650 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 3650 2700 50  0001 C CNN
+F 3 "~" H 3650 2700 50  0001 C CNN
+	1    3650 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR01
+U 1 1 5E94A001
+P 3950 2500
+F 0 "#PWR01" H 3950 2350 50  0001 C CNN
+F 1 "+5V" H 3965 2673 50  0000 C CNN
+F 2 "" H 3950 2500 50  0001 C CNN
+F 3 "" H 3950 2500 50  0001 C CNN
+	1    3950 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 2600 3950 2600
+Wire Wire Line
+	3950 2600 3950 2500
+Wire Wire Line
+	3850 2900 3950 2900
+Wire Wire Line
+	3950 2900 3950 3000
+Text Label 5750 3150 0    50   ~ 0
+sensor-A
+Text Label 5750 3900 0    50   ~ 0
+sensor-B
+Text Label 3850 2800 0    50   ~ 0
+sensor-B
+Text Label 3850 2700 0    50   ~ 0
+sensor-A
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5E94B17A
+P 3850 2600
+F 0 "#FLG0101" H 3850 2675 50  0001 C CNN
+F 1 "PWR_FLAG" H 3850 2773 50  0000 C CNN
+F 2 "" H 3850 2600 50  0001 C CNN
+F 3 "~" H 3850 2600 50  0001 C CNN
+	1    3850 2600
+	1    0    0    -1  
+$EndComp
+Connection ~ 3850 2600
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5E94B9E9
+P 3850 2900
+F 0 "#FLG0102" H 3850 2975 50  0001 C CNN
+F 1 "PWR_FLAG" H 3850 3073 50  0000 C CNN
+F 2 "" H 3850 2900 50  0001 C CNN
+F 3 "~" H 3850 2900 50  0001 C CNN
+	1    3850 2900
+	-1   0    0    1   
+$EndComp
+Connection ~ 3850 2900
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 5E94C6E8
+P 7350 2500
+F 0 "H1" V 7304 2650 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7395 2650 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 7350 2500 50  0001 C CNN
+F 3 "~" H 7350 2500 50  0001 C CNN
+	1    7350 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 5E94CA91
+P 7350 2800
+F 0 "H2" V 7304 2950 50  0000 L CNN
+F 1 "MountingHole_Pad" V 7395 2950 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 7350 2800 50  0001 C CNN
+F 3 "~" H 7350 2800 50  0001 C CNN
+	1    7350 2800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7250 2500 7250 2800
+$Comp
+L power:GND #PWR07
+U 1 1 5E94CFF2
+P 7250 2900
+F 0 "#PWR07" H 7250 2650 50  0001 C CNN
+F 1 "GND" H 7255 2727 50  0000 C CNN
+F 2 "" H 7250 2900 50  0001 C CNN
+F 3 "" H 7250 2900 50  0001 C CNN
+	1    7250 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7250 2900 7250 2800
+Connection ~ 7250 2800
+$Comp
+L Device:C C2
+U 1 1 5E94EA40
+P 5400 3700
+F 0 "C2" H 5200 3750 50  0000 L CNN
+F 1 ".1u" H 5150 3650 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 5438 3550 50  0001 C CNN
+F 3 "~" H 5400 3700 50  0001 C CNN
+	1    5400 3700
+	1    0    0    -1  
+$EndComp
+Connection ~ 5400 3550
+$Comp
+L power:GND #PWR09
+U 1 1 5E94FDBB
+P 5400 3850
+F 0 "#PWR09" H 5400 3600 50  0001 C CNN
+F 1 "GND" H 5405 3677 50  0000 C CNN
+F 2 "" H 5400 3850 50  0001 C CNN
+F 3 "" H 5400 3850 50  0001 C CNN
+	1    5400 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5E950C3C
+P 5400 2950
+F 0 "C1" H 5200 3000 50  0000 L CNN
+F 1 ".1u" H 5150 2900 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm" H 5438 2800 50  0001 C CNN
+F 3 "~" H 5400 2950 50  0001 C CNN
+	1    5400 2950
+	1    0    0    -1  
+$EndComp
+Connection ~ 5400 2800
+$Comp
+L power:GND #PWR08
+U 1 1 5E9511B5
+P 5400 3100
+F 0 "#PWR08" H 5400 2850 50  0001 C CNN
+F 1 "GND" H 5405 2927 50  0000 C CNN
+F 2 "" H 5400 3100 50  0001 C CNN
+F 3 "" H 5400 3100 50  0001 C CNN
+	1    5400 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_ALT D1
+U 1 1 5E94B98D
+P 4600 2750
+F 0 "D1" V 4639 2632 50  0000 R CNN
+F 1 "LED_ALT" V 4548 2632 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 4600 2750 50  0001 C CNN
+F 3 "~" H 4600 2750 50  0001 C CNN
+	1    4600 2750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3950 2900 4600 2900
+Connection ~ 3950 2900
+$Comp
+L Device:R R1
+U 1 1 5E94CF86
+P 4400 2600
+F 0 "R1" V 4193 2600 50  0000 C CNN
+F 1 "R" V 4284 2600 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4330 2600 50  0001 C CNN
+F 3 "~" H 4400 2600 50  0001 C CNN
+	1    4400 2600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4550 2600 4600 2600
+Wire Wire Line
+	3950 2600 4250 2600
+Connection ~ 3950 2600
+$EndSCHEMATC
