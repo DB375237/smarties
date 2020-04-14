@@ -1,5 +1,8 @@
 # Smarties - Hardware & Electronics
 
+## Hardware
+* [MakerBeam - 10x10mm aluminum profiles](https://www.makerbeam.com/makerbeam/)
+
 ## Electronics
 * [2003-hall-sensors-board-platter](https://github.com/DB375237/smarties/tree/master/hardware/2003-hall-sensors-board-platter)
 
