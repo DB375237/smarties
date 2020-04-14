@@ -4,6 +4,8 @@ Copyright © 2020 DB375237 (Dario B.)
 
 The hardware part of the Smarties project is licensed under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://www.ohwr.org/project/cernohl/wikis/uploads/ee7922912e58f8676e1d7ff841b391cb/cern_ohl_s_v2.pdf)
 
+(see this [document](https://github.com/DB375237/smarties/blob/master/hardware/cern_ohl_s_v2_howto.pdf) for help)
+
 Preamble
 
 CERN has developed this licence to promote collaboration among
