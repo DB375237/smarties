@@ -1,5 +1,8 @@
 # Smarties
 
+##Electronics
+* [2003-hall-sensors-board-platter](https://github.com/DB375237/smarties/tree/master/hardware/2003-hall-sensors-board-platter)
+
 ## License
 
 Copyright © 2020 DB375237 (Dario B.)
