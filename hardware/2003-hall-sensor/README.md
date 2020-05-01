@@ -1,6 +1,6 @@
 # Hall Effect Sensors Board
 
-![Hall Effect Sensors Board - Comparators](https://github.com/DB375237/smarties/blob/master/images/2003-hall-sensors-board.png)
+![Hall Effect Sensors Board - Comparators](https://github.com/DB375237/smarties/blob/master/images/2003-hall-sensors.png)
 
 ## License
 

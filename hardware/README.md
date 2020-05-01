@@ -7,6 +7,7 @@
 
 ## Electronics
 * [2003-hall-sensors-board-platter](https://github.com/DB375237/smarties/tree/master/hardware/2003-hall-sensors-board-platter)
+* [2003-hall-sensors-board (comparators)](https://github.com/DB375237/smarties/tree/master/hardware/2003-hall-sensors)
 
 ## License
 
