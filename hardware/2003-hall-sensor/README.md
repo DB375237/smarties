@@ -1,6 +1,10 @@
-# Hall Effect Sensors Board
+# Hall Effect Sensors Board (comparators)
 
-![Hall Effect Sensors Board - Comparators](https://github.com/DB375237/smarties/blob/master/images/2003-hall-sensor.png)
+KiCad project of the board for the comparators for signal coming from Hall effect sensors.
+
+It's based on the [LMV393](https://github.com/DB375237/smarties/blob/master/pdf/lmv393.pdf) low voltage comparator.
+
+![Hall Effect Sensors Board (comparators)](https://github.com/DB375237/smarties/blob/master/images/2003-hall-sensor.png)
 
 ## License
 
