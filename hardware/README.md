@@ -2,6 +2,7 @@
 
 ## Hardware
 * [MakerBeam](https://www.makerbeam.com/makerbeam/) - assorted 10x10mm aluminum profiles & brackets
+* [Pololu Universal Aluminum Mounting Hub for 5mm Shaft, M3 Holes](https://www.pololu.com/product/1998) ([pdf](https://github.com/DB375237/smarties/blob/master/pdf/1998-5mm-m3-hub-dimensions.pdf))
 * 2 x [NEMA 17 Stepper Motors](https://github.com/DB375237/smarties/blob/master/pdf/17HS13-0404S.pdf)
 * Plexiglass tubes - 20 mm outer diameter (16 mm inner diameter)
 
