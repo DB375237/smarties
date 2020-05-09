@@ -1,4 +1,4 @@
-# Smarties Dispenser
+# Smarties™ Dispenser
 
 ## Note
-Smarties is registered trademark of Nestlé
+Smarties™ is registered trademark of Nestlé
