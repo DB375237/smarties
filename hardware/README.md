@@ -15,15 +15,15 @@
 * 2 x [M5 Threaded Rod - 200 mm](https://www.leroymerlin.it/catalogo/barra-filettata-standers-in-acciaio--m5-l-20-mm-35736323-p)
 
 ## 3D Printed Parts
-* [Carousel Axle Ball Bearing Holder](stl, img)
-* [Rotating Platter Axle Ball Bearing Holder] (stl, img)
-* [Rotating Platter] (stl, img)
-* [Rotating Platter Base] (stl, img)
-* [Carousel Tubes Holder 1] (stl, img)
-* [Carousel Tubes Holder 2] (stl, img)
-* [Carousel Tubes Holder 3] (stl, img)
-* [Stepper Motors Spacer] (stl, img)
-* [Drop Sensor] (stl, img)
+* Carousel Axle Ball Bearing Holder ([stl](), [img]())
+* Rotating Platter Axle Ball Bearing Holder ([stl](), [img]())
+* Rotating Platter ([stl](), [img]())
+* Rotating Platter Base ([stl](), [img]())
+* Carousel Tubes Holder 1 ([stl](), [img]())
+* Carousel Tubes Holder 2 ([stl](), [img]())
+* Carousel Tubes Holder 3 ([stl](), [img]())
+* Stepper Motors Spacer ([stl](https://github.com/DB375237/smarties/blob/master/stl/step-motor-spacer-01-01-FINAL.stl), [front](https://github.com/DB375237/smarties/blob/master/images/stepper-spacer-01.png), [back](https://github.com/DB375237/smarties/blob/master/images/stepper-spacer-02.png), [pdf](https://github.com/DB375237/smarties/blob/master/pdf/stepper-spacer.pdf))
+* Drop Sensor ([stl](), [img]())
 
 ## License
 
