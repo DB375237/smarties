@@ -24,7 +24,7 @@
 * Carousel Tubes Holder 2 ([stl](), [img]())
 * Carousel Tubes Holder 3 ([stl](), [img]())
 * Stepper Motors Spacer ([stl](https://github.com/DB375237/smarties/blob/master/stl/step-motor-spacer-01-01-FINAL.stl), [front](https://github.com/DB375237/smarties/blob/master/images/stepper-spacer-01.png), [back](https://github.com/DB375237/smarties/blob/master/images/stepper-spacer-02.png), [pdf](https://github.com/DB375237/smarties/blob/master/pdf/stepper-spacer.pdf))
-* Drop Sensor ([stl](), [img]())
+* Drop Sensor ([stl](https://github.com/DB375237/smarties/blob/master/stl/ir-barrier-01-01-FINAL.stl), [img]())
 
 ## License
 
