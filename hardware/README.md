@@ -13,6 +13,7 @@
 * 2 x [Stepper Motor Shaft Couplers (5 mm)](https://www.futurashop.it/giunto-in-alluminio-5-mm-5-mm-8300-hub5mm5)
 * 11 x [Neodymium Disc Magnets (5 x 3 mm)](https://www.amazon.it/gp/product/B00389VRZW)
 * 2 x [M5 Threaded Rod - 200 mm](https://www.leroymerlin.it/catalogo/barra-filettata-standers-in-acciaio--m5-l-20-mm-35736323-p)
+* 2 x [IR Break Beam Sensor - 5mm LEDs](https://www.adafruit.com/product/2168)
 
 ## 3D Printed Parts
 * Carousel Axle Ball Bearing Holder ([stl](), [img]())
