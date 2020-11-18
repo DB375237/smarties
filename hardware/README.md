@@ -16,7 +16,7 @@
 * 2 x [IR Break Beam Sensor - 5mm LEDs](https://www.adafruit.com/product/2168)
 
 ## 3D Printed Parts
-* Carousel Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-1-00-02-FINAL.stl), [img]())
+* Carousel Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-1-00-02-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/bearing01.png))
 * Rotating Platter Axle Ball Bearing Holder ([stl](), [img]())
 * Rotating Platter ([stl](), [img]())
 * Rotating Platter Base ([stl](), [img]())
