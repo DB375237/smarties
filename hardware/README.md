@@ -17,7 +17,7 @@
 
 ## 3D Printed Parts
 * Carousel Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-1-00-02-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/bearing01.png))
-* Rotating Platter Axle Ball Bearing Holder ([stl](), [img]())
+* Rotating Platter Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-platter-01-01-Final.stl), [img](https://github.com/DB375237/smarties/blob/master/images/bearing02.png))
 * Rotating Platter ([stl](), [img]())
 * Rotating Platter Base ([stl](), [img]())
 * Carousel Tubes Holder 1 ([stl](), [img]())
@@ -28,6 +28,6 @@
 
 ## License
 
-Copyright © 2020 DB375237 (Dario B.)
+Copyright © 2020-2021 DB375237 (Dario B.)
 
 The hardware part of the Smarties™ Dispenser project is licensed under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://github.com/DB375237/smarties/blob/master/hardware/LICENSE.md)
