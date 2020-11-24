@@ -18,7 +18,7 @@
 ## 3D Printed Parts
 * Carousel Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-1-00-02-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/bearing01.png))
 * Rotating Platter Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-platter-01-01-Final.stl), [img](https://github.com/DB375237/smarties/blob/master/images/bearing02.png))
-* Rotating Platter ([stl](), [img]())
+* Rotating Platter ([stl](https://github.com/DB375237/smarties/blob/master/stl/platter-01-01-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/platter.png))
 * Rotating Platter Base ([stl](), [img]())
 * Carousel Tubes Holder 1 ([stl](), [img]())
 * Carousel Tubes Holder 2 ([stl](), [img]())
