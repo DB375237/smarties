@@ -11,20 +11,21 @@
 * [Plexiglass tubes - 20 mm outer diameter (16 mm inner diameter)](https://www.leroymerlin.it/catalogo/barra-tonda-in-pmma-trasparente-20-x-1000-mm--20-mm-35464205-p)
 * 2 x [Miniature Ball Bearing MR115 2RS (5 x 11 x4 mm)](https://www.amazon.it/gp/product/B07CXN1143)
 * 2 x [Stepper Motor Shaft Couplers (5 mm)](https://www.futurashop.it/giunto-in-alluminio-5-mm-5-mm-8300-hub5mm5)
-* 11 x [Neodymium Disc Magnets (5 x 3 mm)](https://www.amazon.it/gp/product/B00389VRZW)
+* 2 x [Neodymium Disc Magnets (5 x 3 mm)](https://www.amazon.it/gp/product/B00389VRZW)
 * 2 x [M5 Threaded Rod - 200 mm](https://www.leroymerlin.it/catalogo/barra-filettata-standers-in-acciaio--m5-l-20-mm-35736323-p)
 * 2 x [IR Break Beam Sensor - 5mm LEDs](https://www.adafruit.com/product/2168)
+* 1 x [24 RGB LED Ring (WS2812)](https://www.futurashop.it/RING24NEOPIXEL-ANELLO-24LED-NEOPIXEL)
+* 10 mm MDF [top](https://github.com/DB375237/smarties/blob/master/pdf/mdf-base.pdf) [bottom](https://github.com/DB375237/smarties/blob/master/pdf/mdf-base-02.pdf)
 
 ## 3D Printed Parts
 * Carousel Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-1-00-02-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/bearing01.png))
 * Rotating Platter Axle Ball Bearing Holder ([stl](https://github.com/DB375237/smarties/blob/master/stl/bearing-holder-platter-01-01-Final.stl), [img](https://github.com/DB375237/smarties/blob/master/images/bearing02.png))
 * Rotating Platter ([stl](https://github.com/DB375237/smarties/blob/master/stl/platter-01-01-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/platter.png))
 * Rotating Platter Base ([stl](https://github.com/DB375237/smarties/blob/master/stl/base-piatto-01-01-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/base_piatto.png))
-* Carousel Tubes Holder 1 ([stl](), [img]())
-* Carousel Tubes Holder 2 ([stl](), [img]())
-* Carousel Tubes Holder 3 ([stl](), [img]())
+* Carousel Tubes Holders ([stl](), [img]())
 * Stepper Motors Spacer ([stl](https://github.com/DB375237/smarties/blob/master/stl/step-motor-spacer-01-01-FINAL.stl), [front](https://github.com/DB375237/smarties/blob/master/images/stepper-spacer-01.png), [back](https://github.com/DB375237/smarties/blob/master/images/stepper-spacer-02.png), [pdf](https://github.com/DB375237/smarties/blob/master/pdf/stepper-spacer.pdf))
 * Drop Sensor ([stl](https://github.com/DB375237/smarties/blob/master/stl/ir-barrier-01-01-FINAL.stl), [img](https://github.com/DB375237/smarties/blob/master/images/ir-barrier.png))
+* Pixelring Holder (([stl](https://github.com/DB375237/smarties/blob/master/stl/pixel-ring-01-FINAL.stl), [img]()))
 
 ## License
 
