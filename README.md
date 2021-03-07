@@ -2,7 +2,7 @@
 
 Basic Arduino based dispenser. It can be activated via Bluetooth with an HC-05 module.
 
-## How its started
+## How it started
 ![Rendering of Dispenser](https://github.com/DB375237/smarties/blob/master/images/dispenser.png)
 
 ## How it's going
