@@ -16,7 +16,7 @@ USE IT AT YOUR OWN RISK
 ## Open Source Licenses "Facts"
 ![Open Source Licenses "Facts"](https://github.com/DB375237/smarties/blob/master/images/licenses.png)
 
-(see https://oshwa.github.io/certification-mark-generator/facts)
+(generated via https://oshwa.github.io/certification-mark-generator/facts)
 
 ## Note
 Smarties™ is registered trademark of Nestlé
