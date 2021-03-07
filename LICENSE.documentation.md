@@ -1,3 +1,7 @@
+# License (Hardware)
+
+Copyright © 2020 DB375237 (Dario B.)
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
