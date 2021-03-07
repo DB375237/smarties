@@ -1,3 +1,5 @@
+# License (Software)
+
 Copyright © 2020-2021 DB375237 (Dario B.)
 
 Permission is hereby granted, free of charge, to any person obtaining
