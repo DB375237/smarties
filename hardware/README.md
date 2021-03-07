@@ -1,6 +1,7 @@
 # Smarties™ Dispenser - Hardware & Electronics
 
 ## Electronics
+* [Mainboard with Arduino Nano 3.0] (https://github.com/DB375237/smarties/blob/b078c1b0aad8f324e57391940284d2553f00b74f/images/power-board.png)
 * [2003-hall-sensors-board-platter](https://github.com/DB375237/smarties/tree/master/hardware/2003-hall-sensors-board-platter)
 * [2003-hall-sensors-board (comparators)](https://github.com/DB375237/smarties/tree/master/hardware/2003-hall-sensor)
 * 1 x [24 RGB LEDs Ring (WS2812)](https://www.futurashop.it/RING24NEOPIXEL-ANELLO-24LED-NEOPIXEL)
