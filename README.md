@@ -6,7 +6,9 @@ Basic Arduino based dispenser. It can be activated via Bluetooth with an HC-05 m
 ![Rendering of Dispenser](https://github.com/DB375237/smarties/blob/master/images/dispenser.png)
 
 ## How it's going
-![Actual Photo od Dispenser](https://github.com/DB375237/smarties/blob/master/images/dispenser-after.png)
+![Actual Photo of Dispenser](https://github.com/DB375237/smarties/blob/master/images/dispenser-after.png)
+
+![Dispenser in Action](https://github.com/DB375237/smarties/blob/master/images/dispenser.gif)
 
 ## Warning
 Some of the materials used in this project may not be food-safe. This is not meant to be an actual dispenser.
